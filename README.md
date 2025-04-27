@@ -88,3 +88,5 @@ GOOGLE_PARENT_FOLDER_ID="" # optional
 
 ## Demo
 
+[![Watch the video](/pr_reviewer/thumb.png)](https://youtu.be/Jr7fcfBEWPQ)
+
