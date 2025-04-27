@@ -24,7 +24,7 @@ Follow these steps to set up and run the MCP server:
 
 ## Claude Desktop Configuration
 
-After pulling the repository, you'll need to configure Claude Desktop to run the MCP server.
+After cloning  the repository, you'll need to configure Claude Desktop to run the MCP server.
 1. [Download](https://claude.ai/download) Claude Desktop
 2. Open **Settings** → **Developer**.
 3. Click **Edit Config**, then paste the following code:
