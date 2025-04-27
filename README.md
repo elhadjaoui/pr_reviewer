@@ -88,5 +88,5 @@ GOOGLE_PARENT_FOLDER_ID="" # optional
 
 ## Demo
 
-[![Watch the video](/pr_reviewer/thumb.png)](https://youtu.be/Jr7fcfBEWPQ?si=o27Y74JzjPz1YyLC)
+[![Watch the video](/pr_reviewer/thumb.png)](https://www.youtube.com/watch?v=Jr7fcfBEWPQ&ab_channel=MohamedElhadjaoui)
 
