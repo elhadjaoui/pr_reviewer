@@ -2,7 +2,7 @@
 
 
 
-This project implements an MCP (Model Context Protocol) server integrated with Claude Desktop. The server analyzes your Pull Requests and automatically saves the review to a Google Doc in your Google Drive.
+This project implements an MCP (Model Context Protocol) server integrated with Claude Desktop. The server automatically analyzes your Pull Requests, reviews your changes, and adds comments directly to the modified files. It can also approve and merge your PRs. Additionally, the review is saved to a Google Doc in your Google Drive.
 
 
 ## Prerequisites
